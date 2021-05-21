@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<h1>Blog</h1>
+
+{{name}}
+<ul>
+{% for item in lista_tecnologias %}
+
+    {% if item == "Curso" %}
+        <li>
+            <b> 
+            {{ item}}
+         </b>
+        </li>
+    {% else %}
+    <li>
+
+        {{ item }}
+
+    </li>
+    {% endif %}
+
+
+
+{% endfor %}
+</ul>
