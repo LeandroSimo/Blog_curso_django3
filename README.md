@@ -8,7 +8,7 @@
 
 ## :rocket: Tecnologias
 
-Esse app foi feito com as seguintes tecnologias:
+Esse aplicação foi desenvolvida com as seguintes tecnologias:
 - [Python][python]
 - [Django][django]
 
