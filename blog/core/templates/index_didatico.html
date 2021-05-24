@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<h1>Blog</h1>
+
+{{name}}
+<ul>
+{% for item in lista_tecnologias %}
+
+    {% if item == "Curso" %}
+        <li>
+            <b> 
+            {{ item}}
+         </b>
+        </li>
+    {% else %}
+    <li>
+
+        {{ item }}
+
+    </li>
+    {% endif %}
+
+
+
+{% endfor %}
+
+</ul>
+
+
+    {% for post in posts %}
+
+        <h2>
+            {{ post.title }}
+            
+        </h2>
+        <h3>
+            {{ post.sub_title }}
+        </h3>
+        <p>
+            {{ post.content }}
+        </p>
+
+
+    {% endfor %}
+
