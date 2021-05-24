@@ -27,9 +27,17 @@ $ git clone https://github.com/LeandroSimo/curso_django3.git
 $ cd curso.django3/
 
 # Ative a virtuallenv
+No Windows:
 $ cd env
 $ cd Scripts
 $ activate
+.\env\Scripts\activate
+
+No Linux:
+$ cd env
+$ cd bin
+$ activate
+source env/bin/activate
 
 # Instale o Django 3
 $ pip install Django==3.2.3 
