@@ -1,5 +1,5 @@
 
-<h1 align="center">Aplicação do curso em vídeo com Django </h1>
+<h1 align="center">Aplicação do curso em vídeo com Django 3</h1>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
