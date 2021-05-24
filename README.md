@@ -15,7 +15,7 @@ Esse aplicação foi desenvolvida com as seguintes tecnologias:
 
 ## :information_source: Como executar
 
-Para clonar e executar esse app você precisará do [Git](https://git-scm.com) + [Python][python] + [Django][django] instalados no seu computador.
+Para clonar e executar essa aplicação você precisará do [Git](https://git-scm.com) + [Python][python] + [Django][django] instalados no seu computador.
 
 ### Clone e execute 
 
