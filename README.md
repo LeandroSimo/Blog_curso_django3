@@ -21,10 +21,10 @@ Para clonar e executar essa aplicação você precisará do [Git](https://git-sc
 
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/LeandroSimo/curso_django3.git
+$ git clone https://github.com/LeandroSimo/Blog-curso_django3.git
 
 # Entre no repositório
-$ cd curso.django3/
+$ cd Blog-curso.django3/
 
 # Ative a virtuallenv
 No Windows:
