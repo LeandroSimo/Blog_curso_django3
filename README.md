@@ -43,7 +43,7 @@ source env/bin/activate
 $ pip install Django==3.2.3 
 
 # Execute
-$ cd blog
+$ cd a
 $ python manage.py runserver
 
 ```
