@@ -89,9 +89,9 @@ USE_L10N = True
 
 USE_TZ = True
 
-STATIC_URL = '/static/'
+STATIC_URL = '/core/static/'
 
-STATIC_ROOT = "/static/"
+STATIC_ROOT = "/core/static/"
 CKEDITOR_UPLOAD_PATH = "uploads/"
 CKEDITOR_IMAGE_BACKEND = 'pillow'
 
