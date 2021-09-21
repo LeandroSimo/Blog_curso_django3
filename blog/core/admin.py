@@ -1,5 +1,6 @@
 from django.contrib import admin
 from .models import Post, Contact
+from ckeditor.widgets import CKEditorWidget
 
 class PostAdmin(admin.ModelAdmin):
     list_display = [
